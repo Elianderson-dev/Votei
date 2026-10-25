@@ -1,0 +1,83 @@
+{
+  "id": "rui-costa-pimenta",
+  "nomeUrna": "Rui Costa Pimenta",
+  "nomeCompleto": "Rui Costa Pimenta",
+  "partido": "PCO",
+  "numero": 29,
+  "naturalidade": {
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "ufNome": "São Paulo"
+  },
+  "anoNascimento": 1957,
+  "vice": "Antônio Carlos",
+  "vicePartido": "PCO",
+  "coligacao": "Partido da Causa Operária (PCO)",
+  "bio": "Rui Costa Pimenta nasceu em São Paulo (SP). Jornalista e dirigente político, fundou o Partido da Causa Operária (PCO) em 1995 e atua como seu presidente nacional, apresentando análises em veículos de imprensa operária.",
+  "tema": {
+    "primary": "#9a3412",
+    "secondary": "#d97706",
+    "bgStart": "#fff7ed",
+    "bgEnd": "#ffedd5",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#f97316",
+      "secondary": "#fbbf24",
+      "bgStart": "#1c1109",
+      "bgEnd": "#29190d",
+      "text": "#fff7ed"
+    }
+  },
+  "eventos": [
+    {
+      "id": "rui-1",
+      "ano": 1957,
+      "titulo": "Nascimento na Capital Paulista",
+      "resumo": "Nasceu na cidade de São Paulo, filho do economista e militante socialista João Amazonas Pimenta.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "rui-2",
+      "ano": 1978,
+      "titulo": "Ativismo Estudantil e Tendência Operária",
+      "resumo": "Participou da reconstrução de centros acadêmicos e integrou grupos de debate operário que culminaram na corrente Causa Operária.",
+      "fonte": "https://cpdoc.fgv.br",
+      "fonteNome": "FGV CPDOC",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "rui-3",
+      "ano": 1995,
+      "titulo": "Registro Definitivo do PCO",
+      "resumo": "Liderou a campanha nacional que obteve o registro definitivo do Partido da Causa Operária perante o Tribunal Superior Eleitoral.",
+      "fonte": "https://www.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "partido",
+      "revisar": false
+    },
+    {
+      "id": "rui-4",
+      "ano": 2002,
+      "titulo": "Primeira Candidatura Presidencial",
+      "resumo": "Disputou a Presidência da República pela primeira vez pelo PCO, defendendo pautas operárias em debates nacionais.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "rui-5",
+      "ano": 2026,
+      "titulo": "Homologação Eleitoral de 2026",
+      "resumo": "Recebeu confirmação do registro eleitoral no TSE para a disputa presidencial de 2026.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "cargo",
+      "revisar": false
+    }
+  ]
+}

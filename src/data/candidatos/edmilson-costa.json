@@ -1,0 +1,83 @@
+{
+  "id": "edmilson-costa",
+  "nomeUrna": "Edmilson Costa",
+  "nomeCompleto": "Edmilson Silva Costa",
+  "partido": "PCB",
+  "numero": 21,
+  "naturalidade": {
+    "cidade": "Dores do Indaiá",
+    "uf": "MG",
+    "ufNome": "Minas Gerais"
+  },
+  "anoNascimento": 1950,
+  "vice": "Cleusa Santos",
+  "vicePartido": "PCB",
+  "coligacao": "Partido Comunista Brasileiro (PCB)",
+  "bio": "Edmilson Silva Costa nasceu em Dores do Indaiá (MG). Doutor em Economia pela UNICAMP, professor universitário e autor de livros teóricos, atua como Secretário-Geral do Partido Comunista Brasileiro.",
+  "tema": {
+    "primary": "#991b1b",
+    "secondary": "#64748b",
+    "bgStart": "#fef2f2",
+    "bgEnd": "#fee2e2",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#dc2626",
+      "secondary": "#94a3b8",
+      "bgStart": "#180a0a",
+      "bgEnd": "#241010",
+      "text": "#fef2f2"
+    }
+  },
+  "eventos": [
+    {
+      "id": "edmilson-1",
+      "ano": 1950,
+      "titulo": "Nascimento em Dores do Indaiá",
+      "resumo": "Nasceu na região centro-oeste do estado de Minas Gerais.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "edmilson-2",
+      "ano": 1997,
+      "titulo": "Doutorado em Economia na UNICAMP",
+      "resumo": "Obteve o título de doutor pelo Instituto de Economia da Universidade Estadual de Campinas, dedicando-se à pesquisa sobre finanças e desenvolvimento.",
+      "fonte": "https://lattes.cnpq.br",
+      "fonteNome": "Plataforma Lattes / CNPq",
+      "tipo": "formacao",
+      "revisar": false
+    },
+    {
+      "id": "edmilson-3",
+      "ano": 2008,
+      "titulo": "Produção Bibliográfica e Docência",
+      "resumo": "Publicou obras acadêmicas sobre teoria econômica crítica e história do pensamento econômico brasileiro.",
+      "fonte": "https://pcb.org.br",
+      "fonteNome": "Publicações Acadêmicas / PCB",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "edmilson-4",
+      "ano": 2016,
+      "titulo": "Secretário-Geral do Comitê Central do PCB",
+      "resumo": "Foi eleito no Congresso Nacional do partido para exercer a Secretaria-Geral do Comitê Central do PCB.",
+      "fonte": "https://pcb.org.br",
+      "fonteNome": "Órgão Central do PCB",
+      "tipo": "partido",
+      "revisar": false
+    },
+    {
+      "id": "edmilson-5",
+      "ano": 2026,
+      "titulo": "Candidatura Presidencial Deferida",
+      "resumo": "Apresentou candidatura à Presidência da República com registro validado e deferido pela Justiça Eleitoral.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "cargo",
+      "revisar": false
+    }
+  ]
+}

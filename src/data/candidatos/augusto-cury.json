@@ -1,0 +1,93 @@
+{
+  "id": "augusto-cury",
+  "nomeUrna": "Escritor Augusto Cury",
+  "nomeCompleto": "Augusto Jorge Cury",
+  "partido": "Avante",
+  "numero": 70,
+  "naturalidade": {
+    "cidade": "Colina",
+    "uf": "SP",
+    "ufNome": "São Paulo"
+  },
+  "anoNascimento": 1958,
+  "vice": "Júlio Delgado",
+  "vicePartido": "Avante",
+  "coligacao": "Brasil dos Nossos Sonhos (Avante)",
+  "bio": "Augusto Jorge Cury nasceu em Colina (SP). Médico psiquiatra e escritor de renome internacional com mais de 35 milhões de livros comercializados, desenvolveu a Teoria da Inteligência Multifocal e projetos pedagógicos em saúde socioemocional.",
+  "tema": {
+    "primary": "#0284c7",
+    "secondary": "#d97706",
+    "bgStart": "#f0f9ff",
+    "bgEnd": "#e0f2fe",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#38bdf8",
+      "secondary": "#fbbf24",
+      "bgStart": "#0c1724",
+      "bgEnd": "#132338",
+      "text": "#f1f5f9"
+    }
+  },
+  "eventos": [
+    {
+      "id": "cury-1",
+      "ano": 1958,
+      "titulo": "Nascimento em Colina",
+      "resumo": "Nasceu no município de Colina, no interior do estado de São Paulo.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "cury-2",
+      "ano": 1983,
+      "titulo": "Formação em Medicina",
+      "resumo": "Concluiu o curso de Medicina na Faculdade de Medicina de São José do Rio Preto (FAMERP), direcionando estudos para a psiquiatria e neuropsicologia.",
+      "fonte": "https://www.famerp.br",
+      "fonteNome": "FAMERP",
+      "tipo": "formacao",
+      "revisar": false
+    },
+    {
+      "id": "cury-3",
+      "ano": 1999,
+      "titulo": "Teoria da Inteligência Multifocal",
+      "resumo": "Apresentou sua proposta teórica que investiga a construção dos pensamentos, os mecanismos da memória e a gestão voluntária das emoções.",
+      "fonte": "https://www.institutoaugustocury.com.br",
+      "fonteNome": "Instituto Augusto Cury",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "cury-4",
+      "ano": 2008,
+      "titulo": "Sucesso Editorial e Impacto Cultural",
+      "resumo": "Publicou obras de grande tiragem com repercussão internacional, destacando-se 'O Vendedor de Sonhos', obra traduzida para mais de 60 países e adaptada para o cinema.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Acervo Bibliográfico Nacional",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "cury-5",
+      "ano": 2012,
+      "titulo": "Programa Escola da Inteligência",
+      "resumo": "Fundou programa educacional com foco no desenvolvimento socioemocional de crianças e jovens, aplicado em redes escolares de múltiplos estados.",
+      "fonte": "https://escoladainteligencia.com.br",
+      "fonteNome": "Escola da Inteligência",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "cury-6",
+      "ano": 2026,
+      "titulo": "Candidatura Presidencial pelo Avante",
+      "resumo": "Teve o registro deferido pelo Tribunal Superior Eleitoral para a Presidência da República pelo Avante, com propostas centradas na saúde mental e renovação social.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "partido",
+      "revisar": false
+    }
+  ]
+}

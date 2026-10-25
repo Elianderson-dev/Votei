@@ -1,0 +1,93 @@
+{
+  "id": "zema",
+  "nomeUrna": "Zema",
+  "nomeCompleto": "Romeu Zema Neto",
+  "partido": "Novo",
+  "numero": 30,
+  "naturalidade": {
+    "cidade": "Araxá",
+    "uf": "MG",
+    "ufNome": "Minas Gerais"
+  },
+  "anoNascimento": 1964,
+  "vice": "Eduardo Girão",
+  "vicePartido": "Novo",
+  "coligacao": "Partido Novo (NOVO)",
+  "bio": "Romeu Zema Neto nasceu em Araxá (MG) e formou-se em Administração de Empresas pela FGV-SP. Dirigiu o Grupo Zema de 1991 a 2016, expandindo a rede para centenas de estabelecimentos comerciais. Elegeu-se governador de Minas Gerais em 2018 e 2022.",
+  "tema": {
+    "primary": "#ea580c",
+    "secondary": "#334155",
+    "bgStart": "#fff7ed",
+    "bgEnd": "#ffedd5",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#f97316",
+      "secondary": "#94a3b8",
+      "bgStart": "#1c1917",
+      "bgEnd": "#292524",
+      "text": "#f5f5f4"
+    }
+  },
+  "eventos": [
+    {
+      "id": "zema-1",
+      "ano": 1964,
+      "titulo": "Nascimento no Alto Paranaíba",
+      "resumo": "Nasceu na cidade de Araxá, tradicional polo hidrotermal e minerador do estado de Minas Gerais.",
+      "fonte": "https://www.agenciaminas.mg.gov.br",
+      "fonteNome": "Agência Minas",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "zema-2",
+      "ano": 1984,
+      "titulo": "Graduação em Administração pela FGV",
+      "resumo": "Formou-se em Administração de Empresas pela Escola de Administração de Empresas de São Paulo da Fundação Getulio Vargas (EAESP-FGV).",
+      "fonte": "https://www.agenciaminas.mg.gov.br",
+      "fonteNome": "Governo de Minas Gerais",
+      "tipo": "formacao",
+      "revisar": false
+    },
+    {
+      "id": "zema-3",
+      "ano": 1991,
+      "titulo": "Liderança no Setor Empresarial",
+      "resumo": "Assumiu o comando do conselho de administração do Grupo Zema, atuando no ramo de varejo de eletrodomésticos, distribuição de combustíveis e serviços.",
+      "fonte": "https://www.agenciaminas.mg.gov.br",
+      "fonteNome": "Acervo Empresarial / Agência Minas",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "zema-4",
+      "ano": 2018,
+      "titulo": "Eleição ao Governo de Minas Gerais",
+      "resumo": "Filiado ao Partido Novo, foi eleito governador no segundo turno com 6.963.806 votos (71,80% dos válidos), em sua primeira disputa eletiva pública.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "zema-5",
+      "ano": 2022,
+      "titulo": "Reeleição no Primeiro Turno",
+      "resumo": "Conquistou a reeleição para o governo mineiro no primeiro turno com 6.094.136 votos (56,18% dos votos válidos).",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "zema-6",
+      "ano": 2026,
+      "titulo": "Candidatura à Presidência da República",
+      "resumo": "Desincompatibilizou-se do governo estadual conforme determina a legislação eleitoral e teve seu registro presidencial deferido pela Justiça Eleitoral.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "partido",
+      "revisar": false
+    }
+  ]
+}

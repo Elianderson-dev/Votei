@@ -1,0 +1,83 @@
+{
+  "id": "samara-martins",
+  "nomeUrna": "Samara Martins",
+  "nomeCompleto": "Samara Martins de Oliveira",
+  "partido": "UP",
+  "numero": 80,
+  "naturalidade": {
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "ufNome": "Minas Gerais"
+  },
+  "anoNascimento": 1988,
+  "vice": "Raquel Brício",
+  "vicePartido": "UP",
+  "coligacao": "Unidade Popular (UP)",
+  "bio": "Samara Martins de Oliveira nasceu em Belo Horizonte (MG). Liderança em movimentos sociais comunitários, moradia popular e direitos de trabalhadores, participou da fundação da Unidade Popular pelo Socialismo.",
+  "tema": {
+    "primary": "#be123c",
+    "secondary": "#f59e0b",
+    "bgStart": "#fff1f2",
+    "bgEnd": "#ffe4e6",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#f43f5e",
+      "secondary": "#fbbf24",
+      "bgStart": "#200b11",
+      "bgEnd": "#330e19",
+      "text": "#fff1f2"
+    }
+  },
+  "eventos": [
+    {
+      "id": "samara-1",
+      "ano": 1988,
+      "titulo": "Nascimento em Belo Horizonte",
+      "resumo": "Nasceu na capital do estado de Minas Gerais, integrando desde a juventude coletivos juvenis e associações populares.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "samara-2",
+      "ano": 2013,
+      "titulo": "Militância por Direitos Urbanos",
+      "resumo": "Atuou em movimentos de defesa de transporte público acessível e pelo direito à moradia em vilas e periferias urbanas.",
+      "fonte": "https://averdade.org.br",
+      "fonteNome": "Jornal A Verdade",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "samara-3",
+      "ano": 2019,
+      "titulo": "Constituição da Unidade Popular",
+      "resumo": "Integrou o quadro pioneiro de organizadores que conquistou o registro definitivo da Unidade Popular pelo Socialismo no TSE.",
+      "fonte": "https://www.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "partido",
+      "revisar": false
+    },
+    {
+      "id": "samara-4",
+      "ano": 2022,
+      "titulo": "Disputa ao Parlamento Federal",
+      "resumo": "Concorreu ao cargo de deputada federal por Minas Gerais, estruturando debates sobre auditoria da dívida pública e reforma agrária.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "samara-5",
+      "ano": 2026,
+      "titulo": "Candidatura Presidencial da UP",
+      "resumo": "Escolhida em convenção nacional e homologada pelo TSE para representar a Unidade Popular na disputa presidencial de 2026.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "cargo",
+      "revisar": false
+    }
+  ]
+}

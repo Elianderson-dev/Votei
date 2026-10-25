@@ -1,0 +1,113 @@
+{
+  "id": "ronaldo-caiado",
+  "nomeUrna": "Ronaldo Caiado",
+  "nomeCompleto": "Ronaldo Ramos Caiado",
+  "partido": "PSD",
+  "numero": 55,
+  "naturalidade": {
+    "cidade": "Anápolis",
+    "uf": "GO",
+    "ufNome": "Goiás"
+  },
+  "anoNascimento": 1949,
+  "vice": "Gilberto Kassab",
+  "vicePartido": "PSD",
+  "coligacao": "Partido Social Democrático (PSD)",
+  "bio": "Ronaldo Ramos Caiado nasceu em Anápolis (GO), formou-se em Medicina pela UNIRIO com especialização em Ortopedia. Presidiu a UDR nos anos 1980, exerceu cinco mandatos de deputado federal, foi senador da República e elegeu-se governador de Goiás em 2018 e 2022.",
+  "tema": {
+    "primary": "#1d4ed8",
+    "secondary": "#16a34a",
+    "bgStart": "#f0fdf4",
+    "bgEnd": "#dcfce7",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#60a5fa",
+      "secondary": "#4ade80",
+      "bgStart": "#0b1912",
+      "bgEnd": "#122a1f",
+      "text": "#f8fafc"
+    }
+  },
+  "eventos": [
+    {
+      "id": "caiado-1",
+      "ano": 1949,
+      "titulo": "Nascimento em Anápolis",
+      "resumo": "Nasceu na cidade de Anápolis, importante polo logístico e agroindustrial do estado de Goiás.",
+      "fonte": "https://www.goias.gov.br",
+      "fonteNome": "Governo do Estado de Goiás",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "caiado-2",
+      "ano": 1972,
+      "titulo": "Formação em Medicina Ortopédica",
+      "resumo": "Graduou-se em Medicina pela Escola de Medicina e Cirurgia da UNIRIO, complementando formação cirúrgica na França com foco em patologias da coluna.",
+      "fonte": "https://www.senado.leg.br",
+      "fonteNome": "Senado Federal",
+      "tipo": "formacao",
+      "revisar": false
+    },
+    {
+      "id": "caiado-3",
+      "ano": 1986,
+      "titulo": "Liderança na União Democrática Ruralista",
+      "resumo": "Assumiu a presidência da União Democrática Ruralista (UDR), entidade criada para atuar nas discussões constituintes sobre propriedade e reforma agrária.",
+      "fonte": "https://cpdoc.fgv.br",
+      "fonteNome": "FGV CPDOC",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "caiado-4",
+      "ano": 1989,
+      "titulo": "Primeira Disputa Presidencial",
+      "resumo": "Concorreu à Presidência da República na primeira eleição direta pós-redemocratização pelo Partido Social Democrático (PSD).",
+      "fonte": "https://www.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "caiado-5",
+      "ano": 1990,
+      "titulo": "Atuação no Parlamento Federal",
+      "resumo": "Foi eleito deputado federal por Goiás, exercendo mandato e posteriormente sendo reeleito em 1998, 2002, 2006 e 2010.",
+      "fonte": "https://www.camara.leg.br",
+      "fonteNome": "Câmara dos Deputados",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "caiado-6",
+      "ano": 2014,
+      "titulo": "Eleição ao Senado da República",
+      "resumo": "Conquistou a vaga de Senador por Goiás com 1.283.665 votos (47,57% dos válidos) pelo partido Democratas.",
+      "fonte": "https://www.senado.leg.br",
+      "fonteNome": "Senado Federal",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "caiado-7",
+      "ano": 2018,
+      "titulo": "Eleição ao Governo de Goiás",
+      "resumo": "Foi eleito governador do Estado de Goiás no primeiro turno com 1.773.185 votos (59,73%), iniciando um ciclo de reorganização fiscal e segurança no estado.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "caiado-8",
+      "ano": 2022,
+      "titulo": "Reeleição no Primeiro Turno",
+      "resumo": "Obteve a reeleição para o Palácio das Esmeraldas com 51,81% dos votos no primeiro turno.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "cargo",
+      "revisar": false
+    }
+  ]
+}

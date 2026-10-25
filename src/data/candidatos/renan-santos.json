@@ -1,0 +1,83 @@
+{
+  "id": "renan-santos",
+  "nomeUrna": "Renan Santos",
+  "nomeCompleto": "Renan Antônio Ferreira dos Santos",
+  "partido": "Missão",
+  "numero": 14,
+  "naturalidade": {
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "ufNome": "São Paulo"
+  },
+  "anoNascimento": 1984,
+  "vice": "Coronel Medina",
+  "vicePartido": "Missão",
+  "coligacao": "Partido Missão",
+  "bio": "Renan Antônio Ferreira dos Santos nasceu em São Paulo (SP). Co-fundador e coordenador nacional do Movimento Brasil Livre (MBL), atuou na mobilização cívica e na criação partidária do Missão, oficializado junto ao TSE.",
+  "tema": {
+    "primary": "#6b21a8",
+    "secondary": "#eab308",
+    "bgStart": "#faf5ff",
+    "bgEnd": "#f3e8ff",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#a855f7",
+      "secondary": "#facc15",
+      "bgStart": "#180d24",
+      "bgEnd": "#271238",
+      "text": "#fdf4ff"
+    }
+  },
+  "eventos": [
+    {
+      "id": "renan-1",
+      "ano": 1984,
+      "titulo": "Nascimento em São Paulo",
+      "resumo": "Nasceu na capital paulista, desenvolvendo trajetória nas áreas de comunicação e estratégia política.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "renan-2",
+      "ano": 2014,
+      "titulo": "Fundação e Coordenação do MBL",
+      "resumo": "Participou da criação do Movimento Brasil Livre (MBL), liderando manifestações públicas em defesa de reformas fiscais e administrativas.",
+      "fonte": "https://mbl.org.br",
+      "fonteNome": "Acervo MBL",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "renan-3",
+      "ano": 2022,
+      "titulo": "Campanhas e Mobilização Digital",
+      "resumo": "Atuou na coordenação estratégica de bancadas jovens para o Congresso Nacional e na produção de congressos anuais de formação cívica.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "renan-4",
+      "ano": 2024,
+      "titulo": "Articulação e Registro do Partido Missão",
+      "resumo": "Conduziu a coleta de assinaturas e trâmites de constituição do partido Missão, obtendo o registro partidário definitivo no Tribunal Superior Eleitoral.",
+      "fonte": "https://www.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "partido",
+      "revisar": false
+    },
+    {
+      "id": "renan-5",
+      "ano": 2026,
+      "titulo": "Candidatura Presidencial Homologada",
+      "resumo": "Registrou candidatura à Presidência da República pelo partido Missão com deferimento oficial pelo Plenário do TSE.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "cargo",
+      "revisar": false
+    }
+  ]
+}

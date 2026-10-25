@@ -1,0 +1,83 @@
+{
+  "id": "hertz-dias",
+  "nomeUrna": "Hertz Dias",
+  "nomeCompleto": "Hertz da Silva Dias",
+  "partido": "PSTU",
+  "numero": 16,
+  "naturalidade": {
+    "cidade": "São Luís",
+    "uf": "MA",
+    "ufNome": "Maranhão"
+  },
+  "anoNascimento": 1970,
+  "vice": "Vanessa Portugal",
+  "vicePartido": "PSTU",
+  "coligacao": "Partido Socialista dos Trabalhadores Unificado (PSTU)",
+  "bio": "Hertz da Silva Dias nasceu em São Luís (MA). Professor da rede pública de ensino e ativista da causa negra, fundou o movimento Hip-Hop Quilombo Urbano e milita há décadas nas fileiras do PSTU.",
+  "tema": {
+    "primary": "#b91c1c",
+    "secondary": "#d97706",
+    "bgStart": "#fef2f2",
+    "bgEnd": "#fee2e2",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#ef4444",
+      "secondary": "#f59e0b",
+      "bgStart": "#1c0a0a",
+      "bgEnd": "#2b1010",
+      "text": "#fef2f2"
+    }
+  },
+  "eventos": [
+    {
+      "id": "hertz-1",
+      "ano": 1970,
+      "titulo": "Nascimento em São Luís",
+      "resumo": "Nasceu na capital do Maranhão, crescendo em bairros da periferia de São Luís.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "hertz-2",
+      "ano": 1993,
+      "titulo": "Magistério e Licenciatura em História",
+      "resumo": "Concluiu formação em História na Universidade Federal do Maranhão (UFMA), exercendo docência regular na educação básica estadual.",
+      "fonte": "https://www.ufma.br",
+      "fonteNome": "UFMA",
+      "tipo": "formacao",
+      "revisar": false
+    },
+    {
+      "id": "hertz-3",
+      "ano": 1998,
+      "titulo": "Fundação do Quilombo Urbano",
+      "resumo": "Criou com outros artistas e educadores o movimento Quilombo Urbano, referência maranhense de rap e mobilização social contra o racismo.",
+      "fonte": "https://www.palmares.gov.br",
+      "fonteNome": "Fundação Cultural Palmares",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "hertz-4",
+      "ano": 2018,
+      "titulo": "Candidatura a Vice-Presidente da República",
+      "resumo": "Disputou as eleições gerais de 2018 integrando a chapa presidencial do PSTU ao lado de Vera Lúcia.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "hertz-5",
+      "ano": 2026,
+      "titulo": "Candidatura Presidencial Oficial",
+      "resumo": "Teve o registro aprovado pelo TSE para encabeçar a chapa do PSTU à Presidência da República em 2026.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "cargo",
+      "revisar": false
+    }
+  ]
+}

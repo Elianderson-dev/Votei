@@ -1,0 +1,73 @@
+{
+  "id": "wilson-grassi",
+  "nomeUrna": "Veterinário Wilson Grassi",
+  "nomeCompleto": "Wilson Grassi Filho",
+  "partido": "Democrata",
+  "numero": 35,
+  "naturalidade": {
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "ufNome": "São Paulo"
+  },
+  "anoNascimento": 1969,
+  "vice": "Suêd Haidar",
+  "vicePartido": "Democrata",
+  "coligacao": "Partido Democrata",
+  "bio": "Wilson Grassi Filho nasceu em São Paulo (SP). Médico veterinário formado pela USP, é pioneiro na implantação de hospitais públicos veterinários e defensor de causas da saúde única e bem-estar animal.",
+  "tema": {
+    "primary": "#059669",
+    "secondary": "#0891b2",
+    "bgStart": "#ecfdf5",
+    "bgEnd": "#d1fae5",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#34d399",
+      "secondary": "#22d3ee",
+      "bgStart": "#061f17",
+      "bgEnd": "#0d2d22",
+      "text": "#ecfdf5"
+    }
+  },
+  "eventos": [
+    {
+      "id": "grassi-1",
+      "ano": 1969,
+      "titulo": "Nascimento em São Paulo",
+      "resumo": "Nasceu na capital do estado de São Paulo.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "grassi-2",
+      "ano": 1993,
+      "titulo": "Graduação em Medicina Veterinária",
+      "resumo": "Graduou-se pela Faculdade de Medicina Veterinária e Zootecnia da Universidade de São Paulo (USP).",
+      "fonte": "https://www.fmvz.usp.br",
+      "fonteNome": "FMVZ-USP",
+      "tipo": "formacao",
+      "revisar": false
+    },
+    {
+      "id": "grassi-3",
+      "ano": 2005,
+      "titulo": "Atendimento Comunitário e Saúde Única",
+      "resumo": "Liderou projetos de assistência médico-veterinária e controle de zoonoses em comunidades de baixa renda.",
+      "fonte": "https://www.crmvsp.gov.br",
+      "fonteNome": "Conselho Regional de Medicina Veterinária - SP",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "grassi-4",
+      "ano": 2026,
+      "titulo": "Candidatura Presidencial Deferida",
+      "resumo": "Teve seu registro deferido pelo Tribunal Superior Eleitoral para disputar a Presidência da República pelo partido Democrata.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "cargo",
+      "revisar": false
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "flavio-bolsonaro",
+  "nomeUrna": "Flávio Bolsonaro",
+  "nomeCompleto": "Flávio Nantes Bolsonaro",
+  "partido": "PL",
+  "numero": 22,
+  "naturalidade": {
+    "cidade": "Resende",
+    "uf": "RJ",
+    "ufNome": "Rio de Janeiro"
+  },
+  "anoNascimento": 1981,
+  "vice": "Alfredo Gaspar",
+  "vicePartido": "PL",
+  "coligacao": "Partido Liberal (PL)",
+  "bio": "Flávio Nantes Bolsonaro nasceu em Resende (RJ), formou-se em Direito pela Universidade Candido Mendes com especialização em Políticas Públicas. Foi deputado estadual no Rio de Janeiro por quatro mandatos e elegeu-se Senador da República em 2018.",
+  "tema": {
+    "primary": "#1e3a8a",
+    "secondary": "#eab308",
+    "bgStart": "#eff6ff",
+    "bgEnd": "#dbeafe",
+    "text": "#1e293b",
+    "dark": {
+      "primary": "#3b82f6",
+      "secondary": "#facc15",
+      "bgStart": "#0f172a",
+      "bgEnd": "#1e293b",
+      "text": "#f8fafc"
+    }
+  },
+  "eventos": [
+    {
+      "id": "flavio-1",
+      "ano": 1981,
+      "titulo": "Nascimento em Resende",
+      "resumo": "Nasceu no município de Resende, na região do Médio Paraíba fluminense, filho de Rogéria Nantes e Jair Bolsonaro.",
+      "fonte": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5982",
+      "fonteNome": "Senado Federal",
+      "tipo": "nascimento",
+      "revisar": false
+    },
+    {
+      "id": "flavio-2",
+      "ano": 2001,
+      "titulo": "Bacharelado em Direito",
+      "resumo": "Concluiu a graduação em Direito pela Universidade Candido Mendes (UCAM), realizando posteriormente pós-graduações em Políticas Públicas e Gestão.",
+      "fonte": "https://www.alerj.rj.gov.br",
+      "fonteNome": "Assembleia Legislativa do RJ",
+      "tipo": "formacao",
+      "revisar": false
+    },
+    {
+      "id": "flavio-3",
+      "ano": 2002,
+      "titulo": "Primeira Eleição para a Alerj",
+      "resumo": "Elegeu-se deputado estadual no Rio de Janeiro pelo PPB aos 21 anos, com 31.293 votos, iniciando mandato no Parlamento fluminense.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "flavio-4",
+      "ano": 2014,
+      "titulo": "Quarto Mandato no Parlamento Fluminense",
+      "resumo": "Renovou o mandato na Assembleia Legislativa do Estado do Rio de Janeiro pela quarta vez consecutiva, atingindo 160.359 votos.",
+      "fonte": "https://www.alerj.rj.gov.br",
+      "fonteNome": "Alerj",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "flavio-5",
+      "ano": 2016,
+      "titulo": "Candidatura à Prefeitura da Capital",
+      "resumo": "Disputou a Prefeitura do Rio de Janeiro pelo Partido Social Cristão (PSC), obtendo a quarta colocação no primeiro turno com 424.307 votos (12,48%).",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "Tribunal Superior Eleitoral",
+      "tipo": "marco",
+      "revisar": false
+    },
+    {
+      "id": "flavio-6",
+      "ano": 2018,
+      "titulo": "Eleição para o Senado Federal",
+      "resumo": "Conquistou uma cadeira no Senado da República pelo Rio de Janeiro com 4.380.418 votos (31,36% dos válidos), assumindo legislatura de oito anos em 2019.",
+      "fonte": "https://www.senado.leg.br",
+      "fonteNome": "Senado Federal",
+      "tipo": "cargo",
+      "revisar": false
+    },
+    {
+      "id": "flavio-7",
+      "ano": 2021,
+      "titulo": "Decisões Judiciais em Instâncias Superiores",
+      "resumo": "O Superior Tribunal de Justiça (STJ) e o Supremo Tribunal Federal (STF) anularam decisões de primeira instância e provas colhidas na investigação da Alerj por vício de foro e nulidade no compartilhamento de dados bancários.",
+      "fonte": "https://www.stj.jus.br",
+      "fonteNome": "Superior Tribunal de Justiça (RHC 135.249)",
+      "tipo": "judicial",
+      "revisar": false
+    },
+    {
+      "id": "flavio-8",
+      "ano": 2026,
+      "titulo": "Candidatura Presidencial pelo PL",
+      "resumo": "Teve o registro de candidatura à Presidência da República homologado e deferido pelo Tribunal Superior Eleitoral, concorrendo pelo Partido Liberal.",
+      "fonte": "https://divulgacandcontas.tse.jus.br",
+      "fonteNome": "TSE DivulgaCandContas",
+      "tipo": "partido",
+      "revisar": false
+    }
+  ]
+}
