@@ -94,7 +94,7 @@ export default function SobrePage() {
       {/* Regra Anti-Invenção */}
       <section className="p-6 rounded-2xl bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/50 space-y-3">
         <h3 className="font-bold text-amber-900 dark:text-amber-200 flex items-center gap-2">
-          <span>🛡️</span> Regra Anti-Invenção & Verificabilidade
+          <span></span> Regra Anti-Invenção & Verificabilidade
         </h3>
         <p className="text-sm text-amber-900/80 dark:text-amber-300/80 leading-relaxed">
           Nenhum ponto da cronologia é publicado sem a indicação da fonte primária pública. Caso não haja documentação oficial acessível sobre determinado período, o tópico é deliberadamente omitido, impedindo qualquer especulação biográfica.

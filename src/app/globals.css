@@ -1,5 +1,7 @@
 @import 'tailwindcss';
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
   --color-primary: #009c3b;
   --color-primary-dark: #007a2e;
@@ -53,7 +55,11 @@
   to { transform: scale(1); opacity: 1; }
 }
 
-/* Dark mode base */
+/* Dark mode base: adjust browser default UI and color-scheme */
+:root {
+  color-scheme: light;
+}
+
 .dark {
   color-scheme: dark;
 }

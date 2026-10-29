@@ -1,11 +1,9 @@
-'use client';
-
 import React from 'react';
 import Link from 'next/link';
 import { BrazilFlag } from '@/components/ui/BrazilFlag';
 
 export const Footer: React.FC = () => {
-  const currentYear = new Date().getFullYear();
+  const currentYear = 2026;
 
   return (
     <footer className="w-full bg-slate-50 dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 text-slate-600 dark:text-slate-400 py-12 transition-colors">
